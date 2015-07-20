@@ -1,17 +1,17 @@
 {
   "subtitle": "SWA baby", 
   "uuid": "2341647adc874fd3ae556a07d762a920", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Mtoto", 
   "image": null, 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "slug": "mtoto_baby", 
+  "slug": "baby", 
   "source": null, 
   "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
