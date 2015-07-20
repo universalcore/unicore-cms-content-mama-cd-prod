@@ -1,17 +1,17 @@
 {
   "subtitle": "swa month 9", 
   "description": "Jitayarishe kuwa Mama!", 
-  "language": "swa_TZ", 
+  "language": "swa_KE", 
   "title": "Mwezi wa 9", 
   "primary_category": "12ec6b04e7a84b41a8c0e971d80bfb58", 
   "created_at": "2015-07-14T09:52:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-14T10:26:31.270697+00:00", 
+  "modified_at": "2015-07-20T17:01:00.724544+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "swa_month9", 
   "uuid": "fbebe367ed9d4a9f8cf30c470f84c4d4"
