@@ -6,12 +6,12 @@
   "primary_category": "eaf14cf659624156beae467c116b6258", 
   "created_at": "2016-04-18T09:03:11+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2016-04-18T09:10:03.989919+00:00", 
+  "modified_at": "2016-04-18T09:21:46.141257+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": "d107c6090a8a41a7b3e4e629077d8b30", 
   "published": null, 
-  "position": 1, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "quest-ce-que-babycenter", 
   "uuid": "3aab71fc02874f66b5276c9366dcd1ee"
